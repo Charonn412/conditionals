@@ -1,5 +1,6 @@
 video {
     width: 495px;
     height: 280px;
-    
+    border: 1px solid black; align-self: baseline;
+    padding: 2px;
 }
